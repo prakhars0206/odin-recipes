@@ -1,2 +1,3 @@
 # odin-recipes
-Basic first website from oding project
+
+Basic first website from odin project, nothing too complex
